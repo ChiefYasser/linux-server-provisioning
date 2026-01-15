@@ -1,6 +1,6 @@
 # CentOS 9 Server Automation & Centralized Logging
 
-## 📋 Project Overview
+##  Project Overview
 This project automates the provisioning of CentOS 9 servers, establishes a centralized logging architecture using **Rsyslog**, and implements storage quotas using **XFS**. It simulates a production environment using Oracle VirtualBox.
 <img width="1048" height="401" alt="diagram-export-10-12-2025-20_37_17" src="https://github.com/user-attachments/assets/df107b54-6127-4095-8f5d-d53f5e5d86e3" />
 
