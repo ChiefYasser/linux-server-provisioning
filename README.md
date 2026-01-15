@@ -2,7 +2,8 @@
 
 ##  Project Overview
 This project automates the provisioning of CentOS 9 servers, establishes a centralized logging architecture using **Rsyslog**, and implements storage quotas using **XFS**. It simulates a production environment using Oracle VirtualBox.
-<img width="1048" height="401" alt="diagram-export-10-12-2025-20_37_17" src="https://github.com/user-attachments/assets/df107b54-6127-4095-8f5d-d53f5e5d86e3" />
+<img width="1048" height="322" alt="525067660-df107b54-6127-4095-8f5d-d53f5e5d86e3" src="https://github.com/user-attachments/assets/198ec3a6-eec4-4ded-b615-649922e0189e" />
+
 
 <img width="1314" height="548" alt="usecaseLinux" src="https://github.com/user-attachments/assets/83e8aa4a-0561-4f58-9808-b839513dbc48" />
 ## 🛠️ Technologies Used
