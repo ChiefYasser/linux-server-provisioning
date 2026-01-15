@@ -6,7 +6,7 @@ This project automates the provisioning of CentOS 9 servers, establishes a centr
 
 
 <img width="1314" height="548" alt="usecaseLinux" src="https://github.com/user-attachments/assets/83e8aa4a-0561-4f58-9808-b839513dbc48" />
-## 🛠️ Technologies Used
+## Technologies Used
 
 *   **OS:** CentOS 9 Stream
 *   **Scripting:** Bash
@@ -14,7 +14,7 @@ This project automates the provisioning of CentOS 9 servers, establishes a centr
 *   **Logging:** Rsyslog (TCP/UDP Port 514)
 *   **Storage:** XFS Quotas
 
-## 🚀 Features
+##  Features
 1.  **Automated Provisioning:** A Bash script that updates the OS, creates a SysAdmin user, and configures the Firewall.
 2.  **Centralized Logs:** 
     *   **Server:** Receives logs and organizes them by hostname (`/var/log/remote/%HOSTNAME%`).
@@ -25,7 +25,7 @@ This project automates the provisioning of CentOS 9 servers, establishes a centr
 ## Future implemtation : 
  Visualing the logs make the code better with automating everything making the user experience simplier and more friendly 
  Using Elk stack 
-## 💻 How to Run
+##  How to Run
 
 ### 1. Provisioning
 Run the script as root on a fresh CentOS install:
