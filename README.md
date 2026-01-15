@@ -21,8 +21,9 @@ This project automates the provisioning of CentOS 9 servers, establishes a centr
 3.  **Disk Quotas:** Enforces a hard limit of 10MB on specific users to prevent storage saturation.
 
 
-   
-
+## Future implemtation : 
+ Visualing the logs make the code better with automating everything making the user experience simplier and more friendly 
+ Using Elk stack 
 ## 💻 How to Run
 
 ### 1. Provisioning
@@ -30,5 +31,6 @@ Run the script as root on a fresh CentOS install:
 ```bash
 chmod +x provision.sh
 ./provision.sh
+
 
 
